@@ -1,8 +1,8 @@
-![]()
+![hello](https://github.com/sd012gfhkhhvh/2nd-repository/blob/main/WhatsApp%20Image%202021-09-28%20at%2015.00.15%20(1).jpeg)
 
 #introduction
 hello, i am soham
-## basic detail
+## 😄 basic detail
 ### basic detail
 #### basic detail
 ##### basic detail
@@ -14,7 +14,7 @@ hello, i am soham
 <img src="https://img.icons8.com/bubbles/100/000000/kolkata.png"/>
 **college name**-*nsec*
 
-## Here is my skills
+## 🚀 Here is my skills
 | s.no| skill|
 |---|---|
 | 1.| react|
@@ -22,7 +22,7 @@ hello, i am soham
 | 3.| html|
 | 4.| c++|
 
-## courses
+## ❇️ courses
 1. udemy
 2. coursera
 3. unacademy
